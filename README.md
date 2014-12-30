@@ -16,11 +16,9 @@ which is essentially their friend list.
 ## Usage
 
 1. Use header.mak to generate the make file and use the make file to create the executable. (If already made, skip this step)
-2. Type "./amigosim" to create a amigonet.
+2. Type "./amigosim" to create a amigonet. Or type "./amigosim < scenario1.txt" to redirect the input directly. 
 3. See "scenario1.txt" for input test cases. 
 
-Instead of step 2:
-1. Type "./amigosim < scenario1.txt" to redirect the input directly. 
 
 ## History
 
