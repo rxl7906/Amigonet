@@ -62,3 +62,5 @@ The second warning repeats the "const" problem. (LINE 109)(amigonet.c)
 is a "const User *user" which uses "const" and the "node->user" takes in
 a "User" structure. (LINE 314)(amigonet.c)
 ------------------------------------------------------------------------
+OVERVIEW:
+AmigoNet maintains a collection of users that have friend ("amigo") connections between them. It is loosely based on some elementary features in a system like Facebook or Linkedin. Some Operations that are supported as connecting ("friending") and disconnecting ("un-friending") users, as well as determining the distance, or degrees of separation between two uesrs. 
