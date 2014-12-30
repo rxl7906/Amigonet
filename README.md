@@ -1,6 +1,6 @@
 #AmigoNet
 
-AmigoNet maintains a collection of users that have friend ("amigo") connections between them. It is loosely based on some elementary features in a system like Facebook or Linkedin. Some Operations that are supported as connecting ("friending") and disconnecting ("un-friending") users, as well as determining the distance, or degrees of separation between two users. 
+AmigoNet maintains a collection of users that have friend ("amigo") connections between them. It is loosely based on some elementary features in a system like Facebook or Linkedin. Some operations that are supported as connecting ("friending") and disconnecting ("un-friending") users, as well as determining the distance, or degrees of separation between two users. 
 
 ## Data Structure
 
